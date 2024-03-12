@@ -22,7 +22,7 @@ jobs:
           config_timezone: Asia/Ha_Noi
 
           plugin_anilist: yes
-          plugin_anilist_user: khoa301020
+          plugin_anilist_user: FuminoTheFish
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 1

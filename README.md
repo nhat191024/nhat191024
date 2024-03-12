@@ -1,16 +1,15 @@
-### Hi there 👋
+<div style="position:relative; display: flex; flex-wrap: nowrap;"> 
+    <img style='position:absolute; z-index:1;' src='github-metrics.svg' alt="github-metrics.svg"/>
+</div> 
 
-<!--
-**nhat191024/nhat191024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Overall Status
+<div style="display: flex; gap: 10px;">
 
-Here are some ideas to get you started:
+![nhat191024's Stats](https://github-readme-stats.vercel.app/api?username=nhat191024&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![nhat191024's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nhat191024&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+![:name](https://count.getloli.com/get/@shark?theme=rule34)
+

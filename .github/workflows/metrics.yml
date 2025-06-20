@@ -26,4 +26,3 @@ jobs:
           plugin_anilist_medias: anime, manga
           plugin_anilist_sections: favorites, watching, reading, characters
           plugin_anilist_limit: 2          
-          plugin_traffic: yes
